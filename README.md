@@ -34,6 +34,8 @@ c++로 구현한 알고리즘 풀이 모음입니다.
   
   - [시뮬레이션](https://github.com/chlalstjd430/algorithm/tree/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C/12_%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98)
   
+  - [기타](https://github.com/chlalstjd430/algorithm/tree/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C/0_%20%EC%9C%A0%ED%98%95%EC%97%86%EC%9D%8C)
+  
 - 프로그래머스 문제
 
   - [LEVEL 1](https://github.com/chlalstjd430/algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/LEVEL%201)
