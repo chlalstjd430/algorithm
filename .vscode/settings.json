@@ -9,7 +9,9 @@
     "limits": "cpp",
     "string_view": "cpp",
     "locale": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "__locale": "cpp",
+    "cstdlib": "cpp"
   },
   "code-runner.executorMap": { 
     "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt" 
