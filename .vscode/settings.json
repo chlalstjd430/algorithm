@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "ostream": "cpp",
+    "iosfwd": "cpp",
+    "string": "cpp",
+    "iostream": "cpp",
+    "algorithm": "cpp",
+    "chrono": "cpp",
+    "limits": "cpp",
+    "string_view": "cpp",
+    "locale": "cpp",
+    "vector": "cpp"
+  },
+  "code-runner.executorMap": { 
+    "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt" 
+  },
+    "code-runner.runInTerminal": true,
+
+}
